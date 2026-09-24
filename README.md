@@ -106,4 +106,3 @@ comum, a semana de 08 a 14/06 e a diferença EUA × outros países.
 1. Abra o link do dashboard em qualquer navegador; não precisa de conta.
 2. Para editar, abra `tableau/youtube_trending_dashboard.twbx` no Tableau Desktop ou no Public
    Edition gratuito. O arquivo já traz os dados.
-3. Para refazer a validação: `pip install pandas jupyter` e execute `notebooks/validacao.ipynb`.
