@@ -216,3 +216,28 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.vscode/
+
+# --- Sprint 12 -----------------------------------------------------------------
+# Tableau: arquivos temporarios e de recuperacao
+*.twbr
+~*.twb
+~*.twbx
+
+# Entrega da plataforma TripleTen (ZIP e pacote) fica local
+entrega/
+Entrega do Projeto/
+*.zip
+
+# Instrucoes locais e material do curso ficam fora do repositorio
+CLAUDE.md
+docs/instrucoes-tripleten.md
+readme.txt
+
+# Rascunho de apresentacao (a versao final e o PDF)
+*.pptx
+presentation/conteudo-apresentacao.md
+
+# Imagens de conquista (usadas no LinkedIn, nao no projeto)
+images/badge-*.png
+images/conquista-*.png
