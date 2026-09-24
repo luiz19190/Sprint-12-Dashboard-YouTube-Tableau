@@ -243,5 +243,5 @@ images/badge-*.png
 images/conquista-*.png
 
 # Video do LinkedIn e rascunho do post ficam locais
-brag-output/
+brag-output*/
 linkedin/
