@@ -188,12 +188,6 @@ cython_debug/
 #   option (not recommended) you can uncomment the following to ignore the entire idea folder.
 # .idea/
 
-# Abstra
-#   Abstra is an AI-powered process automation framework.
-#   Ignore directories containing user credentials, local state, and settings.
-#   Learn more at https://abstra.io/docs
-.abstra/
-
 # Visual Studio Code
 #   Visual Studio Code specific template is maintained in a separate VisualStudioCode.gitignore 
 #   that can be found at https://github.com/github/gitignore/blob/main/Global/VisualStudioCode.gitignore
@@ -229,8 +223,7 @@ entrega/
 Entrega do Projeto/
 *.zip
 
-# Instrucoes locais e material do curso ficam fora do repositorio
-CLAUDE.md
+# Material do curso fica fora do repositorio
 docs/instrucoes-tripleten.md
 readme.txt
 
@@ -241,7 +234,3 @@ presentation/conteudo-apresentacao.md
 # Imagens de conquista (usadas no LinkedIn, nao no projeto)
 images/badge-*.png
 images/conquista-*.png
-
-# Video do LinkedIn e rascunho do post ficam locais
-brag-output*/
-linkedin/
